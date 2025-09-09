@@ -6,9 +6,11 @@ I'm a full-time student looking for jobs/internships in the following fields: da
 
 ---
 
-### @ Languages and Tools
+### Languages and Tools
 
-<img align="left" alt-"Java" width="30px"
-style="padding-right:10px;" src-"https://cdn-jsdelivr
-devicons/devicon/icons/github/github-original.svg"/>
+1) Python (Pandas, Numpy, Scikit-learn, Statsmodels, Pytorch + more)
+2) Java
+3) C++
+4) C
+5) VScode
 
